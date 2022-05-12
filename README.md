@@ -4,7 +4,7 @@
 
 - <img src="https://cdn.jsdelivr.net/gh/wmuhua/cdn@main/1.png" width="20" height="20" alt=""/> 掘金专栏：https://juejin.cn/user/3368559359825448/posts
 
-- <img src="https://cdn.jsdelivr.net/gh/wmuhua/cdn@main/1.png" width="20" height="20" alt=""/> 公众号：[一沐年华]()
+- <img src="https://cdn.jsdelivr.net/gh/wmuhua/cdn@main/1.png" width="20" height="20" alt=""/> 公众号：[前端快乐多]()
 
 - <img src="https://cdn.jsdelivr.net/gh/wmuhua/cdn@main/1.png" width="20" height="20" alt=""/> 个人微信：[ITwmuhua]()
 
