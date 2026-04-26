@@ -1,4 +1,4 @@
-- <img src="https://cdn.jsdelivr.net/gh/wmuhua/cdn@main/1.png" width="20" height="20" alt=""/> 个人博客：https://github.com/wmuhua/blog
+<!-- - <img src="https://cdn.jsdelivr.net/gh/wmuhua/cdn@main/1.png" width="20" height="20" alt=""/> 个人博客：https://github.com/wmuhua/blog -->
 
 - <img src="https://cdn.jsdelivr.net/gh/wmuhua/cdn@main/1.png" width="20" height="20" alt=""/> 个人网站：https://blog.wmuhua.com
 
